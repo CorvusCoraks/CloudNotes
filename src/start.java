@@ -6,8 +6,7 @@ import java.io.IOException;
  * Created by GreMal on 30.05.2015.
  */
 /*
-* Программа запуска CoudNotes. Если обнаруживает в директории программы новую версию, то удаляет старую
-* и переименовывает обновлённый файл в CloudSticker.jar
+* Бутафорский и ненужный файл. Вместо него - проект CloudStickerStart
 *
 * */
 public class start {
